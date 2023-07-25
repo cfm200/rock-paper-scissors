@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+p {
+    color: white;
+    font-size: 40px;
+    margin-top: 425px;
+    
+}
+
+.color-button {
+    background-color: transparent;
+    font-size: 50px;
+    padding: 8px 10px;
+    cursor: pointer;
+    border: solid;
+}
